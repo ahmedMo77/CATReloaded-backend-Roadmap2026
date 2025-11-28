@@ -56,8 +56,9 @@ Cover the basics of web development, including HTML, CSS, JavaScript, and browse
         </ul>
         <h5>🗂️ Resources</h5>
         <h6>🌏 Arabic</h6>
-        <ul>         
-           <li>  <a href="https://youtu.be/AkIpdnup6G4?si=f_DQtgaqIuHQMKmc"> Git & GitHub arabic شرح كورس عربي (Git & GitHub)</a> </li>                
+        <ul> 
+         Watch The Two
+           <li>  <a href="https://youtu.be/AkIpdnup6G4?si=f_DQtgaqIuHQMKmc"> Git & GitHub arabic شرح كورس عربي (Git & GitHub)</a> </li>             
            <li>  <a href="https://youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&si=Ie-piGqlzbkAZoD1"> Learn Git and Github With Practical Examples</a> </li>                   
         </ul>       
         <h6>🌏 English</h6>        
@@ -73,6 +74,13 @@ Cover the basics of web development, including HTML, CSS, JavaScript, and browse
 <html lang="en">
   <body>
     <h1>  Beginner Level </h1>
+  <hr>
+  <h4>
+<a href="https://youtube.com"> 
+    First of all,<br> you can explore the backend concepts you’ll encounter throughout your learning journey
+</a>
+  </h4>
+  <hr>
 
 <p><strong>Objective:</strong>
 
