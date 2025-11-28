@@ -56,21 +56,14 @@ Cover the basics of web development, including HTML, CSS, JavaScript, and browse
         </ul>
         <h5>🗂️ Resources</h5>
         <h6>🌏 Arabic</h6>
+        <ul>         
+           <li>  <a href="https://youtu.be/AkIpdnup6G4?si=f_DQtgaqIuHQMKmc"> Git & GitHub arabic شرح كورس عربي (Git & GitHub)</a> </li>                
+           <li>  <a href="https://youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&si=Ie-piGqlzbkAZoD1"> Learn Git and Github With Practical Examples</a> </li>                   
+        </ul>       
+        <h6>🌏 English</h6>        
         <ul>
-          <li>
-            <a href="https://www.youtube.com/watch?v=Q6G-J54vgKc">Big Data Arabic (Git & GitHub)</a>
-          </li>
-        </ul>
-        <h6>🌏 English</h6>
-        <ul>
-        <li>
-            <a href="https://youtu.be/hdI2bqOjy3c?si=5MYoiZW-SD9rbw8L">
-Traversy Media
-</a>
-          </li>
-          <li>
-            <a href="https://www.youtube.com/watch?v=RGOj5yH7evk">freeCodeCamp (Git & GitHub)</a>
-          </li>
+             <li> <a href="https://youtu.be/hdI2bqOjy3c?si=5MYoiZW-SD9rbw8L">Traversy Media</a></li>         
+             <li>  <a href="https://www.youtube.com/watch?v=RGOj5yH7evk">freeCodeCamp (Git & GitHub)</a></li>         
         </ul>
       </td>
     </tr>
