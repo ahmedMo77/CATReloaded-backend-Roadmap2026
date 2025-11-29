@@ -66,10 +66,6 @@ Cover the basics of web development, including HTML, CSS, JavaScript, and browse
               <a href="https://www.youtube.com/watch?v=Jaqrcw_MB9E&list=PL4n1Qos4Tb6R4guGC4oX_PZVt8E8Xpvq"> Issam Abdelnabi
               <a>
            </li>
-            <li>
-              <a href="https://www.youtube.com/watch?v=Q6G-J54vgKc&t=1776s&pp=ygUPZ2l0aHViIGJpZyBkYXRh0gcJCRUKAYcqIYzv"> Big Data
-              </a>
-            </i>
              <li>
               <a href="https://www.youtube.com/watch?v=EzHbZjXDdKc&t=2943s&pp=ygUQYm9vdHN0cmFwINi02LHYrQ%3D%3D"> Abdelrahman Gamal (Bootstrap)
               </a>
@@ -89,7 +85,6 @@ Cover the basics of web development, including HTML, CSS, JavaScript, and browse
     </tr>
   </tbody>
 </table>
-
 ---
 <h1>  Beginner Level </h1>
   <hr>
@@ -597,11 +592,17 @@ Dives into design patterns,Covers the Model-View-Controller (MVC) architectural 
           <li>
             <a href="https://youtube.com/playlist?list=PLsV97AQt78NTrqUAZM562JbR3ljX19JFR&si=-wST1eOr8dMkMkET">Passionate Coders</a>
           </li>
+          <li>
+            <a href="https://www.youtube.com/watch?v=8OitfyFqboA&list=PL4n1Qos4Tb6STYkwXrOdYxj_dlGqzozZN">Issam Abdelnabi</a>
+          </li>
         </ul>
         <h6>🌏 English</h6>
         <ul>
           <li>
             <a href="https://youtube.com/playlist?list=PLlsmxlJgn1HJpa28yHzkBmUY-Ty71ZUGc&si=lUHxIPCGaVkLiHGO">Geekific</a>
+          </li>
+          <li>
+            <a href="https://youtu.be/rylaiB2uH2A">freeCodeCamp.org [ (2:04:56) ]</a>
           </li>
         </ul>
       </td>
@@ -855,18 +856,18 @@ Dives into design patterns,Covers the Model-View-Controller (MVC) architectural 
           <li>
             <a href="https://www.youtube.com/playlist?list=PL62tSREI9C-foV0zXVpW_f0JNtTD6Wv2W">DevCreed (JWT Refresh Tokens)</a> [1:12]
           </li>
-          <li>
-            <a href="https://youtu.be/F9j3X6KuIpw">Milan Jovanović
- (API Versioning)</a> 
-          </li>
         </ul>
         <h6>🌏 English</h6>
         <ul>
-              <li>
+          <li>
             <a href="https://youtu.be/i6kkKBsHEJs?si=3gPprG2dpcd1hd9B">Code Maze</a>
           </li>
           <li>
             <a href="https://youtu.be/lml_j5ujjeQ?si=eQ-0O1g4ppvT481c">Code Maze</a>
+          </li>
+                    <li>
+            <a href="https://youtu.be/F9j3X6KuIpw">Milan Jovanović
+ (API Versioning)</a> 
           </li>
         </ul>
       </td>
