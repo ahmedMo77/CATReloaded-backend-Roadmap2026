@@ -1122,9 +1122,7 @@ IAmTimCorey</a> [1]
           <li> Rate Limiting  </li>
           <li> Specification Pattern</li>
           <li> FastEndpoints</li>
-          <li> Benchmark in .NET</li>
-          <li> Clean Architecture</li>
-          <li> Vertical Slice Architecture</li>
+          <li> Benchmark in .NET</li>        
         </ul>
         <h5>🗂️ Resources</h5>
         <ul>
@@ -1139,9 +1137,6 @@ IAmTimCorey</a> [1]
           </li>
           <li>            
             <a href="https://www.youtube.com/playlist?list=PLMwkkoLA3KE8fkxP1-nKtCJeUV3g5yF9K">Benchmark in .NET</a>
-          </li>
-            <li>         
-            <a href="https://www.notion.so/af906e5017314d808aa8a169087c2ba8?pvs=21">Automapper</a>
           </li>
         </ul>
       </td>
