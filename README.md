@@ -11,7 +11,7 @@ Hey folks, we've got four roadmaps for four cool sub-circles (Programming Langua
 - [Java **NEW**](https://github.com/RedaMa7mood/CATReloaded-backend-Roadmap2026/tree/main/Spring)
 
 - 
-- *A Special Thanks To:
+- *A Special Thanks To*:
 - [Saif Eldien Sweelam](https://www.linkedin.com/in/saifsweelam/)
 - [Mohamed Zkralla](https://www.linkedin.com/in/mohamed-zkrallah-3bb962192?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - [Ahmed Mohammed](https://www.linkedin.com/in/a7medmo25)
