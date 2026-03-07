@@ -82,12 +82,61 @@
 <tr>
 <th>Step 1</th>
 <td>PHP Basics</td>
-<td><a href="https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-">Learn PHP The Right Way</a></td>
-<td>1 : 33</td>
+<td>
+<ul>
+<li><a href="https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-">Learn PHP The Right Way</a></li>
+<li><a href="https://www.youtube.com/watch?v=xcg9qq6SZ0w&list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq">Getting to know the basics - PHP 8 - Arabic</a></li>
+</ul>
+</td>
+<td>
+<ul>
+<li>1 : 21</li>
+<li>1 : 42</li>
+</ul>
+</td>
 <td>February 17, 2025 → February 23, 2025</td>
 </tr>
 <tr>
 <th>Step 2</th>
+<td>PHP Basics</td>
+<td>
+<ul>
+<li><a href="https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-">Learn PHP The Right Way</a></li>
+<li><a href="https://www.youtube.com/watch?v=xcg9qq6SZ0w&list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq">Getting to know the basics - PHP 8 - Arabic</a></li>
+</ul>
+</td>
+<td>
+<ul>
+<li>21 : 33</li>
+<li>43 : 62</li>
+</ul>
+</td>
+<td>February 17, 2025 → February 23, 2025</td>
+</tr>
+<tr>
+<th>Step 3</th>
+<td>PHP Basics</td>
+<td>
+<a href="https://www.youtube.com/watch?v=xcg9qq6SZ0w&list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq">Getting to know the basics - PHP 8 - Arabic</a>
+</td>
+<td>
+63 : 91
+</td>
+<td>February 17, 2025 → February 23, 2025</td>
+</tr>
+<tr>
+<th>Step 4</th>
+<td>PHP Basics</td>
+<td>
+<a href="https://www.youtube.com/watch?v=xcg9qq6SZ0w&list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq">Getting to know the basics - PHP 8 - Arabic</a>
+</td>
+<td>
+92 : 105
+</td>
+<td>February 17, 2025 → February 23, 2025</td>
+</tr>
+<tr>
+<th>Step 5</th>
 <td>JSON, Regular Expressions</td>
 <td>
 <a href="https://www.youtube.com/playlist?list=PLylMDDjFIp1Ai0nITV8-e1kr-IeOk7Qt2">JSON + PHP</a><br>
@@ -97,17 +146,27 @@
 <td>February 24, 2025 → March 2, 2025</td>
 </tr>
 <tr>
-<th>Step 3</th>
+<th>Step 6</th>
 <td>OOP</td>
 <td>
-<a href="https://www.youtube.com/playlist?list=PL7mt2FDjAkPdEgExp0ZNMIiW8vHI8FEK1">OOP Arabic</a><br>
-<a href="https://www.phptutorial.net/php-oop/">OOP Tutorial</a>
+<ul>
+<li><a href="https://www.youtube.com/playlist?list=PL7mt2FDjAkPdEgExp0ZNMIiW8vHI8FEK1">OOP Arabic</a><br></li>
+<li><a href="https://www.youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh">OOP - English</li>
+<li><a href="https://laracasts.com/series/object-oriented-principles-in-php">OOP - English</li>
+<li><a href="https://www.phptutorial.net/php-oop/">OOP Tutorial</a></li>
+</ul>
 </td>
-<td>1 : 24</td>
+<td>
+<ul>
+<li>1 : 24</li>
+<li>1 : 15</li>
+<li>All</li>
+</ul>
+</td>
 <td>March 3, 2025 → March 9, 2025</td>
 </tr>
 <tr>
-<th>Step 4</th>
+<th>Step 7</th>
 <td>ERD, Database Design</td>
 <td>
 <a href="https://www.youtube.com/watch?v=CZ46r29kyQw">ERD Full Lecture</a><br>
@@ -117,7 +176,7 @@
 <td>March 10, 2025 → March 16, 2025</td>
 </tr>
 <tr>
-<th>Step 5</th>
+<th>Step 8</th>
 <td>MySQL</td>
 <td>
 <a href="https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpMGXTKXsBM_ZNpJwowfsP49">MySQL EN</a><br>
@@ -127,13 +186,21 @@
 <td>March 17, 2025 → March 23, 2025</td>
 </tr>
 <tr>
-<th>Step 6</th>
+<th>Step 9</th>
 <td>Intermediate PHP, First Project</td>
 <td>
-<a href="https://www.phptutorial.net/php-pdo/">PDO Tutorial</a><br>
+<ul>
+<li><a href="https://www.phptutorial.net/php-pdo/">PDO Tutorial</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh">PDO</li>
+</ul>
 <a href="https://www.youtube.com/watch?v=DOsuFRnBqLU">MySQL Notes App</a>
 </td>
-<td>55 : 67</td>
+<td>
+<ul>
+<li>55 : 67</li>
+<li>16 , 17 </li>
+</ul>
+</td>
 <td>March 24, 2025 → March 30, 2025</td>
 </tr>
 </tbody>
@@ -198,26 +265,55 @@
 <tbody>
 <tr>
 <td>Step 1</td>
-<td>MVC 1:25</td>
-<td><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq">PHP MVC</a></td>
+<td>MVC</td>
+<td><a href="https://www.youtube.com/watch?v=q0JhJBYi4sw">PHP MVC</a></td>
 <td>April 1, 2025 → April 10, 2025</td>
 </tr>
-<tr>
 <td>Step 2</td>
-<td>MVC 26:50</td>
+<td>MVC  10 : 30</td>
 <td><a href="https://www.youtube.com/playlist?list=PL3VM-unCzF8ipG50KDjnzhugceoSG3RTC">PHP MVC</a></td>
 <td>April 11, 2025 → April 20, 2025</td>
 </tr>
 <tr>
 <td>Step 3</td>
-<td>Intro to Laravel 1:15</td>
-<td><a href="https://www.youtube.com/watch?v=1NjOWtQ7S2o&list=PL3VM-unCzF8hy47mt9-chowaHNjfkuEVz">Intro to Laravel</a></td>
+<td>MVC 31 : 50</td>
+<td><a href="https://www.youtube.com/playlist?list=PL3VM-unCzF8ipG50KDjnzhugceoSG3RTC">PHP MVC</a></td>
+<td>April 11, 2025 → April 20, 2025</td>
+</tr>
+<tr>
+<tr>
+<td>Step 4</td>
+<td>Intro to Laravel 1:21</td>
+<td><a href="https://laracasts.com/series/laravel-from-scratch-2026">Intro to Laravel</a></td>
 <td>April 21, 2025 → April 30, 2025</td>
 </tr>
 <tr>
-<td>Step 4</td>
-<td>Intro to Laravel 16:30</td>
-<td><a href="https://www.youtube.com/watch?v=1NjOWtQ7S2o&list=PL3VM-unCzF8hy47mt9-chowaHNjfkuEVz">Intro to Laravel</a></td>
+<td>Step 5</td>
+<td>Intro to Laravel 22:43</td>
+<td><a href="https://laracasts.com/series/laravel-from-scratch-2026">Intro to Laravel</a></td>
+<td>May 1, 2025 → May 8, 2025</td>
+</tr>
+<tr>
+<td>Step 6</td>
+<td>Admin Panels</td>
+<td><a href="https://www.youtube.com/playlist?list=PL6tf8fRbavl3lxHRw44aKyW0Hq2IXmxGv">Laravel Filament Full Tutorial</a></td>
+<td>May 1, 2025 → May 8, 2025</td>
+</tr>
+  <tr>
+<td>Step 7</td>
+<td>Laravel Testing</td>
+<td>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=BuDger5Ytbc&list=PLdXLsjL7A9k0esh2qNCtUMsGPLUWdLjHp">Laravel Testing</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLpzy7FIRqpGAbkfdxo1MwOS9xjG3O3z1y">Laravel Testing</li>
+</ul>
+
+  Pest Framework
+<ul>
+<li><a href="https://www.youtube.com/watch?v=lEvau6CgqPE">Learn Pest</a></li>
+<li><a href="https://laracasts.com/series/pest-from-scratch">Learn Pest</li>
+</ul>
+</td>
 <td>May 1, 2025 → May 8, 2025</td>
 </tr>
 </tbody>
