@@ -23,7 +23,9 @@ We would like to extend our sincere appreciation and gratitude to the following 
 - [Ahmed Ashraf](https://www.linkedin.com/in/ahmedashraf1000/)  
 - [Sara Nabih](https://www.linkedin.com/in/sara-nabih-4168212a3)  
 - [Basmala Mohamed](https://www.linkedin.com/in/basmala-mohammed-bb8131252)  
-- [Amira Mahmoud](https://www.linkedin.com/in/amira-mahmoud-b947a9320)  
+- [Amira Mahmoud](https://www.linkedin.com/in/amira-mahmoud-b947a9320)
+- [Hagar Elbakry](https://www.linkedin.com/in/hagar-elbakry-27354533a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+  
 
 Their support and collaboration have been instrumental in the success of this project.
 
